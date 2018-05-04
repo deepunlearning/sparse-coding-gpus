@@ -1,9 +1,10 @@
 ====================================================
 Author: Anand Madhavan
 Email: anand@anandm.net
+Date: July, 2009
 Stanford University
 ====================================================
-Sparse coding using GPUs
+Sparse coding using GPUs 
 
 Part of the ICML Paper on "Deep Belief Networks using GPUs".
 
